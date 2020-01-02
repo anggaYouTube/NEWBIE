@@ -19,10 +19,10 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 cowsay -f eyes " Angga YT" | lolcat
 figlet -f slant "Angga YT" | lolcat
-echo "    <=====================[]====================>" | lolcat
-echo "    <=====[        Tools By AnggaYT       ]=====>" | lolcat
-echo "    <=====[   Concact Me : 08976341427    ]=====>" | lolcat
-echo "    <=====================[]====================>" | lolcat
+echo "  <======================[]=====================>" | lolcat
+echo "  <======[        Tools By AnggaYT       ]======>" | lolcat
+echo "  <======[   Concact Me : 08976341427    ]======>" | lolcat
+echo "  <======================[]=====================>" | lolcat
 
 sleep 1
 
@@ -36,10 +36,10 @@ clear
 sleep 1
 exit
 }
-echo "\33[0;32m SUBSCRIBE CHANEL Angga YT"
+echo "\33[0;32mSUBSCRIBE CHANEL Angga YT"
         sleep 3
         sleep 2
-echo "\33[36;1m install bahan dulu pilih no 8"
+echo "\33[36;1minstall bahan dulu pilih no 8"
 echo "\33[37;1m"
     sleep 2
       echo "\33[1;33m ( 1 ) hack fb"
@@ -53,8 +53,8 @@ echo "\33[37;1m"
       echo "\33[1;32m ( 9 ) exit"
 
 
-      echo "---------------------------------------"
-read -p " masukkan pilihan anda ton : " pil ;
+      echo "¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?"
+read -p " masukkan pilihan anda! : " pil ;
 if [ $pil = 1 ]
 then
 clear
