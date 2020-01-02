@@ -39,7 +39,7 @@ exit
 echo "\33[0;32mSUBSCRIBE CHANEL Angga YT"
         sleep 3
         sleep 2
-echo "\33[36;1minstall bahan dulu pilih no 8"
+echo "\33[36;1myang subscribe semoga lancar"
 echo "\33[37;1m"
     sleep 2
       echo "\33[1;33m ( 1 ) hack fb"
@@ -49,8 +49,7 @@ echo "\33[37;1m"
       echo "\33[32;1m ( 5 ) fishing fb"
       echo "\33[1;33m ( 6 ) CCTV"
       echo "\33[32;1m ( 7 ) spam sms ALL"
-      echo "\33[1;33m ( 8 ) install bahan bahan nya om"
-      echo "\33[1;32m ( 9 ) exit"
+      echo "\33[1;32m ( 8 ) exit"
 
 
       echo "¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?¿?"
@@ -125,32 +124,11 @@ git clone https://github.com/4L13199/LITESPAM
     sh LITESPAM.sh
 fi
 
-
 if [ $pil = 8 ]
-then
-clear
-apt update && apt upgrade
-apt install python2
-pip2 install urllib3 chardet certifi idna requests
-pkg install git
-pip2 install mechanize
-pkg install curl
-pkg install ruby
-pkg install gem
-gem install lolcat
-pkg install git
-pkg install php
-pkg install ruby cowsay toilet figlet
-pkg install neofetch
-pkg install nano
-figlet -f slant " DONE"|lolcat
-fi
-
-if [ $pil = 9 ]
 
 then
 clear
-echo "terimakasih bos kuh,jangan lupa solat ya :( "
+echo "terimakasih,jangan lupa subscribe ya :)"
         exit
 
 fi
